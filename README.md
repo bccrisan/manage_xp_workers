@@ -1,4 +1,7 @@
-### Using the available suport via Servic Now, we are able to do reboot without the need of a web browser.
+### Using the available support via Servic Now and , we are able to do reboot without the need of a web browser.
+
+This helps us do power cycles machines, and all that good staff we need in order to keep them alive and in good condition.
+All the functionality available in the browser version is avaiable here.
 
 #### Before using the script you will need to install Java & Java Web Service by doing:
 `sudo apt install default-jre icedtea-netx`
