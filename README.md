@@ -25,3 +25,5 @@ Since these machines are password protected, opening each file in text editor, y
     Open file via Java Web Service *(double click or right click and open with Java Web Service)**
 
 *If it doesn't show up as an `open-with` option, probably `icedtea-netx` is **not** installed.
+
+<span style="color:red">Please do not make pull request, opening up one of those jnlp's is going to replace the password with something random.</span>
